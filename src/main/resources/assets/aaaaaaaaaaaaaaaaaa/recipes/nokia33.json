@@ -1,0 +1,42 @@
+{
+  "group": "aaaaaaaaaaaaaaaaaa",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:obsidian"
+    },
+    "1": {
+      "item": "aaaaaaaaaaaaaaaaaa:nokiaingot"
+    },
+    "2": {
+      "item": "minecraft:obsidian"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "aaaaaaaaaaaaaaaaaa:buttonpad"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "6": {
+      "item": "minecraft:diamond_block"
+    },
+    "7": {
+      "item": "aaaaaaaaaaaaaaaaaa:pcb"
+    },
+    "8": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "aaaaaaaaaaaaaaaaaa:nokia3310",
+    "count": 1
+  }
+}

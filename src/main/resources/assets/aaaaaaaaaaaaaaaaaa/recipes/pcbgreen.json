@@ -1,0 +1,43 @@
+{
+  "group": "aaaaaaaaaaaaaaaaaa",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone_torch"
+    },
+    "1": {
+      "item": "aaaaaaaaaaaaaaaaaa:nokiaingot"
+    },
+    "2": {
+      "item": "aaaaaaaaaaaaaaaaaa:nokiaingot"
+    },
+    "3": {
+      "item": "minecraft:redstone"
+    },
+    "4": {
+      "item": "aaaaaaaaaaaaaaaaaa:nokiaingot"
+    },
+    "5": {
+      "item": "minecraft:redstone_torch"
+    },
+    "6": {
+      "item": "minecraft:wool",
+      "data": 15
+    },
+    "7": {
+      "item": "aaaaaaaaaaaaaaaaaa:nokiaingot"
+    },
+    "8": {
+      "item": "aaaaaaaaaaaaaaaaaa:nokiaingot"
+    }
+  },
+  "result": {
+    "item": "aaaaaaaaaaaaaaaaaa:pcb",
+    "count": 1
+  }
+}

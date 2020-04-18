@@ -1,0 +1,50 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.REDSTONE_TORCH"
+      },
+      {
+        "value": "CUSTOM:Nokiaingot"
+      },
+      {
+        "value": "CUSTOM:Nokiaingot"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "CUSTOM:Nokiaingot"
+      },
+      {
+        "value": "Blocks.REDSTONE_TORCH"
+      },
+      {
+        "value": "Blocks.WOOL#15"
+      },
+      {
+        "value": "CUSTOM:Nokiaingot"
+      },
+      {
+        "value": "CUSTOM:Nokiaingot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Pcb"
+    },
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "name": "pcbgreen",
+    "namespace": "mod"
+  }
+}

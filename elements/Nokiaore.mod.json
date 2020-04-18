@@ -1,0 +1,90 @@
+{
+  "_fv": 6,
+  "_type": "block",
+  "definition": {
+    "texture": "nokia_ore",
+    "textureTop": "nokia_ore",
+    "textureLeft": "nokia_ore",
+    "textureFront": "nokia_ore",
+    "textureRight": "nokia_ore",
+    "textureBack": "nokia_ore",
+    "renderType": 10,
+    "customModelName": "Normal",
+    "rotationMode": 0,
+    "hasTransparency": false,
+    "transparencyType": "SOLID",
+    "mx": 0.0,
+    "my": 0.0,
+    "mz": 0.0,
+    "Mx": 1.0,
+    "My": 1.0,
+    "Mz": 1.0,
+    "faceShape": "SOLID",
+    "name": "Nokia ore",
+    "specialInfo": [],
+    "hardness": 3.0,
+    "resistance": 10.5,
+    "hasGravity": false,
+    "creativeTab": {
+      "value": "CUSTOM:Nokai"
+    },
+    "destroyTool": "pickaxe",
+    "affectedBySilkTouch": true,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "isBeaconBase": true,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canProvidePower": true,
+    "lightOpacity": 247,
+    "material": {
+      "value": "CIRCUITS"
+    },
+    "tickRate": 72,
+    "tickRandomly": false,
+    "isReplaceable": false,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "reactionToPushing": "NORMAL",
+    "isNotColidable": false,
+    "soundOnStep": {
+      "value": "ANVIL"
+    },
+    "luminance": 0.45,
+    "unbreakable": false,
+    "breakHarvestLevel": 6,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "PORTAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 20,
+    "particleSpawningCondition": "ALWAYS",
+    "hasInventory": false,
+    "openGUIOnRightClick": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 32,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "inventoryOutSlotIDs": [],
+    "spawnWorldTypes": [
+      "Surface",
+      "Surface"
+    ],
+    "restrictionBiomes": [],
+    "blocksToReplace": [
+      {
+        "value": "Blocks.STONE"
+      }
+    ],
+    "frequencyPerChunks": 3,
+    "frequencyOnChunk": 16,
+    "minGenerateHeight": 10,
+    "maxGenerateHeight": 255
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aaaaaaaaaaaaaaaaaa:blocks/nokia_ore",
+    "up": "aaaaaaaaaaaaaaaaaa:blocks/nokia_ore",
+    "north": "aaaaaaaaaaaaaaaaaa:blocks/nokia_ore",
+    "east": "aaaaaaaaaaaaaaaaaa:blocks/nokia_ore",
+    "south": "aaaaaaaaaaaaaaaaaa:blocks/nokia_ore",
+    "west": "aaaaaaaaaaaaaaaaaa:blocks/nokia_ore",
+    "particle": "aaaaaaaaaaaaaaaaaa:blocks/nokia_ore"
+  }
+}

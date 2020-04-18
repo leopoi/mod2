@@ -1,0 +1,22 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "nokia_hammer",
+    "customModelName": "Normal",
+    "name": "nokia hammer",
+    "creativeTab": {
+      "value": "CUSTOM:Nokai"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 25,
+    "efficiency": 16.5,
+    "attackSpeed": 2.8,
+    "enchantability": 32,
+    "damageVsEntity": 14.5,
+    "usageCount": 408,
+    "blocksAffected": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "nokia armor_head",
+    "enableBody": true,
+    "textureBody": "nokia armor_body",
+    "enableLeggings": true,
+    "textureLeggings": "nokia armor_leggings",
+    "enableBoots": true,
+    "textureBoots": "nokia armor_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Nokai"
+    },
+    "armorTextureFile": "nokia armor",
+    "helmetName": "nokia helmet",
+    "bodyName": "nokia body",
+    "leggingsName": " nokia leggings",
+    "bootsName": " nokia boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 61,
+    "damageValueHelmet": 10,
+    "damageValueBody": 11,
+    "damageValueLeggings": 21,
+    "damageValueBoots": 19,
+    "enchantability": 14,
+    "toughness": 5.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}
